@@ -2,7 +2,7 @@
 
 Vue.js 是采用 MIT 许可的开源项目，使用完全免费。但是随着项目规模的增长，也需要有相应的资金支持才能持续项目的维护的开发。你可以通过 [Patreon](https://www.patreon.com/evanyou) (每月，分级) 或 [PayPal](https://www.paypal.me/evanyou) (单次) 来赞助 Vue.js 的开发。
 
-### 全球白金赞助商 (2000 美元/月)
+## 全球白金赞助商 (2000 美元/月)
 
 <p style="text-align: center;">
   <a href="https://stdlib.com">
@@ -10,7 +10,7 @@ Vue.js 是采用 MIT 许可的开源项目，使用完全免费。但是随着�
   </a>
 </p>
 
-### 中国区白金赞助商（1000 美元/月)
+## 中国区白金赞助商（1000 美元/月)
 
 <p style="text-align: center;">
   <a href="https://www.upyun.com/?utm_source=vue&utm_medium=ad&utm_content=index" target="_blank">
@@ -18,7 +18,7 @@ Vue.js 是采用 MIT 许可的开源项目，使用完全免费。但是随着�
   </a>
 </p>
 
-### 黄金赞助商 (500 美元/月)
+## 黄金赞助商 (500 美元/月)
 
 <p style="text-align: center; margin-top: 0; margin-bottom: 60px" class="sponsors-page">
   <a href="https://deepstreamhub.com" target="_blank" style="width:140px;top:1px">
